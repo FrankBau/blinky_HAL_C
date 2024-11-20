@@ -1,0 +1,5 @@
+C:/Users/frank/OneDrive/Lehre/RO MPT ES/RO/blinky_HAL_C/CMakeFiles/blinky_HAL.dir
+C:/Users/frank/OneDrive/Lehre/RO MPT ES/RO/blinky_HAL_C/CMakeFiles/edit_cache.dir
+C:/Users/frank/OneDrive/Lehre/RO MPT ES/RO/blinky_HAL_C/CMakeFiles/rebuild_cache.dir
+C:/Users/frank/OneDrive/Lehre/RO MPT ES/RO/blinky_HAL_C/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/frank/OneDrive/Lehre/RO MPT ES/RO/blinky_HAL_C/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
